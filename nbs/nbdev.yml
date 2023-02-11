@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pytest-record-replay"
+  site-url: "https://CharlesFauman.github.io/pytest-record-replay"
+  description: "Adds a record_reply fixture build on top of pytest-recording to record and replay anything!"
+  repo-branch: main
+  repo-url: "https://github.com/CharlesFauman/pytest-record-replay"
